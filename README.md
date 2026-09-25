@@ -1,6 +1,6 @@
 # 🧱 LD Slag Concrete Strength Predictor
 
-**Live app:** _link will be added after deployment_
+**Live app:** https://ld-slag-strength-app.onrender.com
 
 A machine learning model that predicts the 150 mm cube compressive strength (MPa) of M40 concrete from binder type, LD (Linz-Donawitz steel) slag content and curing age, trained on lab test results.
 
